@@ -4387,7 +4387,7 @@ input, select, textarea {
 	#copyright {
 		color: #ffffff;
 		position: relative;
-		color: rgba(255, 255, 255, 0.25);
+		color: white;
 		cursor: default;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.8rem;
@@ -4408,7 +4408,7 @@ input, select, textarea {
 
 		#copyright a {
 			color: #ffffff;
-			border-bottom-color: rgba(255, 255, 255, 0.5);
+			border-bottom-color: white;
 		}
 
 			#copyright a:hover {
@@ -4429,7 +4429,7 @@ input, select, textarea {
 		}
 
 		#copyright code {
-			background: rgba(255, 255, 255, 0.075);
+			background: white;
 			border-color: #ffffff;
 		}
 
