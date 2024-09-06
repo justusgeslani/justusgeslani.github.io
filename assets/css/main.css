@@ -3532,11 +3532,13 @@ input, select, textarea {
 		#header a {
 			color: #ffffff;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
+			border-radius: 25px;
 		}
 
 			#header a:hover {
 				border-bottom-color: transparent;
 				color: black !important;
+				border-radius: 25px;
 			}
 
 		#header strong, #header b {
@@ -3549,15 +3551,18 @@ input, select, textarea {
 
 		#header blockquote {
 			border-left-color: #ffffff;
+			border-radius: 25px;
 		}
 
 		#header code {
 			background: rgba(255, 255, 255, 0.075);
 			border-color: #ffffff;
+			border-radius: 25px;
 		}
 
 		#header hr {
 			border-bottom-color: #ffffff;
+			border-radius: 25px;
 		}
 
 		#header .logo {
@@ -3582,6 +3587,7 @@ input, select, textarea {
 			#header .logo:hover {
 				border-color: black !important;
 				color: black !important;
+				border-radius: 25px;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3602,6 +3608,7 @@ input, select, textarea {
 				#header .logo {
 					font-size: 1.75rem;
 					border-width: 3px !important;
+					border-radius: 25px;
 				}
 
 		}
