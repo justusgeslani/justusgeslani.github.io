@@ -2052,7 +2052,7 @@ input, select, textarea {
 
 		.box.alt {
 			border: 0;
-			border-radius: 0;
+			border-radius: 25px;
 			padding: 0;
 		}
 
@@ -2076,7 +2076,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
 		border: 0;
-		border-radius: 0;
+		border-radius: 25px;
 		cursor: pointer;
 		display: inline-block;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -2341,7 +2341,7 @@ input, select, textarea {
 		-ms-appearance: none;
 		appearance: none;
 		background: transparent;
-		border-radius: 0;
+		border-radius: 25px;
 		border: solid 2px;
 		color: inherit;
 		display: block;
@@ -2432,7 +2432,7 @@ input, select, textarea {
 
 			input[type="checkbox"] + label:before,
 			input[type="radio"] + label:before {
-				border-radius: 0;
+				border-radius: 25px;
 				border: solid 2px;
 				content: '';
 				display: inline-block;
@@ -2452,7 +2452,7 @@ input, select, textarea {
 		}
 
 	input[type="checkbox"] + label:before {
-		border-radius: 0;
+		border-radius: 25px;
 	}
 
 	input[type="radio"] + label:before {
