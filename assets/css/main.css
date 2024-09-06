@@ -3198,14 +3198,14 @@ input, select, textarea {
 	}
 
 		.pagination a:hover {
-			color: #18bfef !important;
-			border-color: #18bfef;
+			color: black !important;
+			border-color: black;
 			z-index: 1;
 		}
 
 			.pagination a:hover + a,
 			.pagination a:hover + span {
-				border-left-color: #18bfef;
+				border-left-color: black;
 			}
 
 		.pagination a.active {
@@ -4176,7 +4176,7 @@ input, select, textarea {
 
 				#footer .pagination a:hover + a,
 				#footer .pagination a:hover + span {
-					border-left-color: #18bfef;
+					border-left-color: black;
 				}
 
 			#footer .pagination a.active {
