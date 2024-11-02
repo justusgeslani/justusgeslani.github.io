@@ -3270,7 +3270,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background: #1e252d;
+			background: #9AC791;
 			content: '';
 			display: block;
 			height: 100%;
@@ -4152,7 +4152,7 @@ input, select, textarea {
 		}
 
 		#footer ul.icons.alt li .icon:before {
-			box-shadow: inset 0 0 0 2px #e2e2e2;
+			box-shadow: inset 0 0 0 2px #6ea275;
 		}
 
 		#footer ul.icons.alt li a.icon:hover:before {
